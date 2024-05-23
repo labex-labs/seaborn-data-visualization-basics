@@ -10,7 +10,12 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 
 ## Scenarios
 
-|   Index | Name                                | Difficulty   | URL                                                                  |
+|   Index | Name                                | Difficulty   | Practice                                                             |
 |---------|-------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Seaborn Data Visualization Basics | ★☆☆          | <a target='_blank' href='https://labex.io/labs/180237'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
