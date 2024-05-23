@@ -16,6 +16,7 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
