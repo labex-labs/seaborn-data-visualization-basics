@@ -26,9 +26,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                | Difficulty   | Practice                                                                                                    |
-|---------|-------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Seaborn Data Visualization Basics | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/seaborn-data-visualization-basics-180237'>Start Lab</a> |
+|   Index | Name                                | Difficulty   | Practice                                                                                               |
+|---------|-------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Seaborn Data Visualization Basics | ★☆☆          | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
 
 ## More
 
