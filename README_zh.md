@@ -26,17 +26,17 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                     |
 |--------|---------------------------|--------|----------------------------------------------------------------------------------------------------------|
-|      1 | 📖 Seaborn 数据可视化基础 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/seaborn-data-visualization-basics-180237'>开始实验</a> |
+|      1 | 📖 Seaborn 数据可视化基础 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/seaborn-data-visualization-basics-180237'>开始实验</a> |
 
 ## 更多
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 免费教程](https://github.com/labex-labs/matplotlib-free-tutorials)
 
