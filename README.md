@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Seaborn Data Visualization Basics](https://cover-creator.labex.io/seaborn-data-visualization-basics.png)](https://labex.io/en/courses/seaborn-data-visualization-basics)
+[![Seaborn Data Visualization Basics](https://cover-creator.labex.io/seaborn-data-visualization-basics.png)](https://labex.io/courses/seaborn-data-visualization-basics)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/seaborn-data-visualization-basics)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/seaborn-data-visualization-basics)
 
 In this course, you will learn how to use Seaborn, a Python library for producing statistical graphics. You will learn how to use Seaborn's sophisticated visualization tools to analyze your data, create informative visualizations, and communicate your results with ease.
 
@@ -30,9 +30,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                 | Difficulty   | Practice                                                                                                  |
-|---------|--------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Seaborn Data Visualization Basics | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
+|   Index | Name                                 | Difficulty   | Practice                                                                                               |
+|---------|--------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Seaborn Data Visualization Basics | Beginner     | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
 
 ## More
 
