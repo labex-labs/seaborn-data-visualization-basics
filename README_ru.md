@@ -32,11 +32,11 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                           |
 |----------|----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Основы визуализации данных с использованием Seabor... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/seaborn-data-visualization-basics-180237'>Начать Лабораторию</a> |
+|        1 | 📖 Основы визуализации данных с использованием Seabor... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/seaborn-data-visualization-basics-180237'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib Бесплатные туториалы](https://github.com/labex-labs/matplotlib-free-tutorials)
 
