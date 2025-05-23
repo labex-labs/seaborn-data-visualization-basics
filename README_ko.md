@@ -32,11 +32,11 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                 | 난이도   | 연습                                                                                                      |
 |----------|--------------------------------------|----------|-----------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Seaborn Data Visualization Basics | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/seaborn-data-visualization-basics-180237'>실습 시작</a> |
+|        1 | 📖 Seaborn Data Visualization Basics | 초급     | <a target='_blank' href='https://labex.io/ko/labs/seaborn-data-visualization-basics-180237'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 무료 튜토리얼](https://github.com/labex-labs/matplotlib-free-tutorials)
 
