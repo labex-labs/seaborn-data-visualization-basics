@@ -32,11 +32,11 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                          | 難易度   | 練習                                                                                                       |
 |----------------|-------------------------------|----------|------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 Seaborn データ可視化の基本 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/seaborn-data-visualization-basics-180237'>ラボを開始</a> |
+|              1 | 📖 Seaborn データ可視化の基本 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/seaborn-data-visualization-basics-180237'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib 無料チュートリアル](https://github.com/labex-labs/matplotlib-free-tutorials)
 
