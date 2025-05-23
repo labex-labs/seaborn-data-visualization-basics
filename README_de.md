@@ -32,11 +32,11 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                              | Schwierigkeit   | Übung                                                                                                         |
 |---------|---------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Grundlagen der Datenvisualisierung mit Seaborn | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/seaborn-data-visualization-basics-180237'>Labor Starten</a> |
+|       1 | 📖 Grundlagen der Datenvisualisierung mit Seaborn | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/seaborn-data-visualization-basics-180237'>Labor Starten</a> |
 
 ## Mehr
 
-- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- 🔗 [Matplotlib Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Matplotlib Kostenlose Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
