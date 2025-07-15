@@ -14,6 +14,12 @@ En este curso, aprenderá cómo utilizar Seaborn, una biblioteca de Python para 
 ![Seaborn](https://img.shields.io/badge/Seaborn-whitesmoke?style=for-the-badge&logo=seaborn)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                            |
+|----------|-------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🔵 Conceptos básicos de visualización de datos con Se... | Principiante | <a target='_blank' href='https://labex.io/es/labs/seaborn-data-visualization-basics-180237'>Iniciar Laboratorio</a> |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,15 +30,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                            |
-|----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Conceptos básicos de visualización de datos con Se... | Principiante | <a target='_blank' href='https://labex.io/es/labs/seaborn-data-visualization-basics-180237'>Iniciar Laboratorio</a> |
 
 ## Más
 
