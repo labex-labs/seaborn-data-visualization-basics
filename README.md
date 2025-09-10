@@ -16,9 +16,9 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 
 ## Exercises
 
-|   Index | Name                                    | Difficulty   | Practice                                                                                               |
-|---------|-----------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🔵 Seaborn Data Visualization Basics | Beginner     | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
+|   Index | Name                                  | Difficulty   | Practice                                                                                               |
+|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
+|       1 | 📖  Seaborn Data Visualization Basics | Beginner     | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
 
 ## Environment
 
