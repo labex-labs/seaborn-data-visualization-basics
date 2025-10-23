@@ -16,13 +16,13 @@ Neste curso, você aprenderá a usar Seaborn, uma biblioteca Python para produzi
 
 ## Exercícios
 
-|   Índice | Nome                                                      | Dificuldade   | Prática                                                                                                     |
-|----------|-----------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------|
-|        1 | 📖  Noções Básicas de Visualização de Dados com Seabor... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/seaborn-data-visualization-basics-180237'>Iniciar Lab</a> |
+|   Índice | Nome                                                      | Dificuldade   | Prática                                                                                                                                              |
+|----------|-----------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩  Noções Básicas de Visualização de Dados com Seabor... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/seaborn-data-visualization-basics-180237?course=seaborn-data-visualization-basics'>Iniciar Lab</a> |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
