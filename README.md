@@ -16,13 +16,13 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                               |
-|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
-|       1 | 📖  Seaborn Data Visualization Basics | Beginner     | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237'>Start Lab</a> |
+|   Index | Name                                  | Difficulty   | Practice                                                                                                                                        |
+|---------|---------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩  Seaborn Data Visualization Basics | Beginner     | <a target='_blank' href='https://labex.io/labs/seaborn-data-visualization-basics-180237?course=seaborn-data-visualization-basics'>Start Lab</a> |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
